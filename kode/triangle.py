@@ -3,5 +3,6 @@ class Segitiga:
         pass
 
     def luas_segitiga(self, alas, tinggi):
-        return 0.5 * alas * tinggi
+        return 1 * alas * tinggi
+
 
